@@ -20,3 +20,7 @@ Immer git bash in Terminal in VS Code benutzen.
 - git commit -m "Hier kommt commit message hin" -m "Hier kommt wahlweise noch description hin"
 --> Es werden alle changes die geaddet wurden automatisch gespeichert
 
+## 5. Hochladen der Änderung auf Github
+
+- git push "name des repository" "ordner des repositorys"
+- git push ist deafult befehl --> pusht dann in aktuelles repository und in main ordner !!!
