@@ -10,8 +10,13 @@ Immer git bash in Terminal in VS Code benutzen.
 
 - mit git status wird angezeigt welche Dateien bearbeitet wurden und welche Dateien neu dazugekommen sind. Aber noch nicht mit git gespeichert wurden.(also noch nicht ins Repository geladen wurden)
 
-## 3. Speichern von Änderungen
+## 3. Hinzufügen zum Speicherprozess bzw um sie dann im folgenden zu comitten/speichern
 
 - git add .       --> speichert alle changes die gemacht wurden
 - git add dateiname    --> speichert die changes nur von diesem file 
+
+## 4. Speichern von Änderungen (lokal)--> ist also noch nicht live auf github !!
+
+- git commit -m "Hier kommt commit message hin" -m "Hier kommt wahlweise noch description hin"
+--> Es werden alle changes die geaddet wurden automatisch gespeichert
 
