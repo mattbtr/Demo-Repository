@@ -31,7 +31,7 @@ origin steht für aktuelle repository
 
 - dazu im gewünschtem Ordner auch mit Codedateien und git init --> erstellt .git ordner und legt fgit struktur an
 - dann in githup new repository, um leeres repository zu machern
-- dann: 
+- dann:
 (echo "# dtzrhr" >> README.md)
 git init
 git add .
@@ -39,7 +39,7 @@ git commit -m "first commit"
 
 ### Wichtig: git branch -M main  --> erstellt neuen branch in repository mit name main
 
-### git remote add origin https://github.com/mattbtr/..  --> tut das repository das man verlinkt als standard- repo einstellen
+### git remote add origin <https://github.com/mattbtr/>..  --> tut das repository das man verlinkt als standard- repo einstellen
 
 ### git push -u origin main  --> DAteien werden remote auf github hochegeladen
 
