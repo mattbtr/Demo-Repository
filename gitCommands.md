@@ -50,3 +50,6 @@ git commit -m "first commit"
 - git branch --> alle branches werden aufgelistet und das aktuelle branch ist mit * gekennzeichnet
 - git branch -b nameOfNewBranch  --> erstellt neues branch
 - git checkout main --> wechselt branch in angegbenen(hier main)
+
+- git diff branch  ---> vergleicht aktuellen branch mit übergebenen branch und zeigt die unterschiede des codes an
+- git merge
