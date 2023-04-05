@@ -44,3 +44,9 @@ git commit -m "first commit"
 ### git push -u origin main  --> DAteien werden remote auf github hochegeladen
 
 ### --> -u ist für einstellen dass bei git push ab sofort satndardmäßig in origin main gepusht wird
+
+## 7. branches
+
+- git branch --> alle branches werden aufgelistet und das aktuelle branch ist mit * gekennzeichnet
+- git branch -b nameOfNewBranch  --> erstellt neues branch
+- git checkout main --> wechselt branch in angegbenen(hier main)
