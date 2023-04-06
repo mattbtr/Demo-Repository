@@ -52,4 +52,8 @@ git commit -m "first commit"
 - git checkout main --> wechselt branch in angegbenen(hier main)
 
 - git diff branch  ---> vergleicht aktuellen branch mit übergebenen branch und zeigt die unterschiede des codes an
-- git merge
+- git merge  --> zusammenführen von 2 branches?
+
+- git push -u origin newBranch  ---> beim erstmaligem pushen muss -u angegben werden.
+
+## 8. pull-request
